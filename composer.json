@@ -16,8 +16,8 @@
     "php": "^7.3|^8.0",
     "creativeorange/gravatar": "~1.0",
     "laravel/framework": "^8.0",
-    "acacha/filesystem": "^0.1.2",
-    "acacha/helpers": "^0.1.4",
+    "aurobinhun/filesystem": "^0.1.2",
+    "aurobinhun/helpers": "^0.1.4",
     "league/flysystem": "^1.0",
     "laravel/ui": "^3.0"
   },
