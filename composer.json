@@ -12,12 +12,22 @@
       "homepage": "http://acacha.org"
     }
   ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/aurobinhun/filesystem"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/aurobinhun/helpers"
+        }
+    ],
   "require": {
     "php": "^7.3|^8.0",
     "creativeorange/gravatar": "~1.0",
     "laravel/framework": "^8.0",
-    "aurobinhun/filesystem": "^0.1.2",
-    "aurobinhun/helpers": "^0.1.4",
+    "aurobinhun/filesystem": "dev-master",
+    "aurobinhun/helpers": "dev-master",
     "league/flysystem": "^1.0",
     "laravel/ui": "^3.0"
   },
